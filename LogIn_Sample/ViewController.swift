@@ -1,0 +1,25 @@
+//
+//  ViewController.swift
+//  LogIn_Sample
+//
+//  Created by 0000 on 04/07/2017.
+//  Copyright © 2017 0000. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+
+}
+
